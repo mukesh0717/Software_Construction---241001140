@@ -146,17 +146,7 @@ Secure Data Management
 
 the platform creates a trusted environment suitable for modern digital communities.
 
-📂 Project Structure
-EchoVerse/
-│
-├── frontend/
-├── backend/
-├── database/
-├── media-storage/
-├── moderation-system/
-├── authentication/
-├── notifications/
-└── README.md
+
 📜 License
 
 This project is developed for educational and academic purposes.
